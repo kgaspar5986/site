@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../styles.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+	<style type="text/css">
+		
+		</style>
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header></header>
+	<nav>
+		<ul>
+			<li><a href="../about.html">About</a></li>
+			<li><a href="../blog.html">Blog</a></li>
+			<li><a href="../gallery.html">Gallery</a></li>
+			<li><a href="../contact.html">Contact</a></li>
+			
+		</ul>
+  </nav>
+  <aside>
+	<h3>I'm a student athlete.</h3>
+	<h3>join me as I examine life through my pictures.</h3>
+	<h3>By Kieran Andrade-Gaspar</h3>
+  </aside>
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1>Page Titlee</h1>
+  </main>
+  <!-- TemplateEndEditable -->
+<footer>Content for New footer Tag Goes Here</footer>
+</div>
+</body>
+</html>
